@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/jmpevzla" target="blank"><img src="https://img.shields.io/twitter/follow/jmpevzla?logo=twitter&style=for-the-badge" alt="jmpevzla" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, Svelte, React, Angular, Frontend Advanced, Backend DevOps**
+- 🌱 I’m currently learning **React, Angular, Htmx, Laravel, Django, Wordpress, LowCode, Backend DevOps**
 
 - 📝 I regularly write tweets on [https://twitter.com/jmpevzla](https://twitter.com/jmpevzla)
 
-- 💬 Ask me about **Javascript, React, Vue, Angular, Typescript, Php, Frameworks**
+- 💬 Ask me about **React, Vue, Angular, Typescript, Javascript, Python & Php Frameworks**
 
 - 📫 How to reach me **jmperezvzla@gmail.com**
 
-- ⚡ Fun fact **I love my Desktop Linux**
+- ⚡ Fun fact **I love learn about new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
